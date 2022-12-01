@@ -1,6 +1,5 @@
 #include <iostream>
 #include "lib.h"
-#include "lib.cpp"
 
 int main(){
     int n;
